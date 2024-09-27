@@ -1,6 +1,6 @@
 # vle_calculator
 
-a sophisticated vapor-liquid equilibrium (vle) calculator designed for experienced chemical engineers. it incorporates advanced thermodynamic models, comprehensive data management, and detailed visualization to facilitate complex vle analyses.
+A vapor-liquid equilibrium (vle) calculator. It incorporates thermodynamic models, data management, and visualization.
 
 ## structure
 
@@ -22,7 +22,4 @@ a sophisticated vapor-liquid equilibrium (vle) calculator designed for experienc
    ```bash
    git clone https://github.com/yourusername/vle_calculator.git
    cd vle_calculator
-
-ls
-
-eod
+ls EOD
